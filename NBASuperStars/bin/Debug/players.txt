@@ -1,0 +1,8 @@
+Name,Rating
+Giannis Antetokounmpo, 96
+LeBron James, 96
+Stephen Curry, 95
+Luka Doncic, 87
+Trae Young, 84
+Jayson Tatum, 84
+Thomas Welsh, 67

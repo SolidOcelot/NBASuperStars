@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\NBASuperStars\NBASuperStars\bin\Debug\NBASuperStars.exe.config
+C:\Users\Alex\source\repos\NBASuperStars\NBASuperStars\bin\Debug\NBASuperStars.exe
+C:\Users\Alex\source\repos\NBASuperStars\NBASuperStars\bin\Debug\NBASuperStars.pdb
+C:\Users\Alex\source\repos\NBASuperStars\NBASuperStars\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\source\repos\NBASuperStars\NBASuperStars\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\source\repos\NBASuperStars\NBASuperStars\obj\Debug\NBASuperStars.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\NBASuperStars\NBASuperStars\obj\Debug\NBASuperStars.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\NBASuperStars\NBASuperStars\obj\Debug\NBASuperStars.csproj.CopyComplete
+C:\Users\Alex\source\repos\NBASuperStars\NBASuperStars\obj\Debug\NBASuperStars.exe
+C:\Users\Alex\source\repos\NBASuperStars\NBASuperStars\obj\Debug\NBASuperStars.pdb
